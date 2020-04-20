@@ -1,6 +1,0 @@
-the first line
-待合并内容
-master 内容
-=======
-mergedemo 分支上的内容
-verson1
